@@ -94,9 +94,10 @@
  * 
  * @author Ronny Vindenes
  * @author Alexander 'alkemann' Morland
+ * @author Christopher 'Shadow6363' Cope
  * @license MIT
- * @modifed 27. march 2009
- * @version 2.0.4
+ * @modifed 2012/04/26
+ * @version 3.0
  */
 class RevisionBehavior extends ModelBehavior {
 
